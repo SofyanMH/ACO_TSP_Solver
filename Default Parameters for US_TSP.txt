@@ -1,0 +1,5 @@
+the maximum number of iterations: 100
+the number of ants: 100
+the pheromone rate: 0.005
+alpha: 1
+beta: 1
